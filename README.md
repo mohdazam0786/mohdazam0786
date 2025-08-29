@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-p525.vercel.app/](https://newspaper-theme-portfolio-4rid.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://newspaper-theme-portfolio-4rid.vercel.app/)]([https://newspaper-theme-portfolio-4rid.vercel.app/](https://newspaper-theme-portfolio-4rid.vercel.app/))
 
 - 📫 How to reach me **azamsiddique0786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-azam-siddique-953712222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-azam-siddique-953712222/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/azam___siddique?igsh=ym55anlvywx0edrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/azam___siddique?igsh=ym55anlvywx0edrz" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/azam__sidd?igsh=ym55anlvywx0edrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/azam___siddique?igsh=ym55anlvywx0edrz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/azam___siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azam___siddique" height="30" width="40" /></a>
 </p>
 
