@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [(https://newspaper-theme-portfolio-4rid.vercel.app/)]([https://newspaper-theme-portfolio-4rid.vercel.app/](https://newspaper-theme-portfolio-4rid.vercel.app/))
+- 👨‍💻 All of my projects are available at ([https://newspaper-theme-portfolio-4rid.vercel.app/](https://newspaper-theme-portfolio-4rid.vercel.app/))
 
 - 📫 How to reach me **azamsiddique0786@gmail.com**
 
